@@ -159,7 +159,9 @@
         {
             "type": "link",
             "data": [
+                {
                     "link": "https://github.com/S-Arkhipov/StudentPage/blob/master/dia1.txt"
+                }
                 ]
         }
     ]
