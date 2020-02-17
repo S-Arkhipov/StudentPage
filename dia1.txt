@@ -1,0 +1,34 @@
+@startuml
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+skinparam usecase {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+left to right direction
+actor P0 as "Человек"
+actor M0 as "Подуль"
+actor P as "Пользователь"
+actor M as "Программный модуль"
+
+package APP as "Приложение поиска пути"{
+usecase A as "Загрузка файла пространства"
+usecase B as "Установка точек старта/финиша"
+usecase C as "Просмотр результата"
+usecase D as "Выгрузка результата"
+P -- (A)
+(A) -- M
+P -- (B)
+(B) -- M
+P -- (C)
+(C) -- M
+P -- (D)
+(D) -- M
+}
+P0 <|-- P
+M --|> M0
+@enduml
