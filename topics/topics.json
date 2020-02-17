@@ -1,19 +1,37 @@
 [
     {
         "id": 1,
-        "title": "UML Use Case",
+        "title": "Лабораторная работа 1",
         "description": "Диаграмма прецедента",
         "preview": "img/use-case-diagram.png"
     },
     {
         "id": 2,
-        "title": "UML Class",
+        "title": "Лабораторная работа 2",
         "description": "Диаграмма классов",
         "preview": "img/class-diagram.png"
     },
     {
         "id": 3,
-        "title": "Новый раздел",
+        "title": "Лабораторная работа 3",
+        "description": "Диаграмма диаграмм",
+        "preview": "https://i.insider.com/5df773cefd9db21a1c58b0c4?width=1100&format=jpeg&auto=webp"
+    },
+    {
+        "id": 4,
+        "title": "Лабораторная работа 4",
+        "description": "Диаграмма диаграмм",
+        "preview": "https://i.insider.com/5df773cefd9db21a1c58b0c4?width=1100&format=jpeg&auto=webp"
+    },
+    {
+        "id": 5,
+        "title": "Лабораторная работа 5",
+        "description": "Диаграмма диаграмм",
+        "preview": "https://i.insider.com/5df773cefd9db21a1c58b0c4?width=1100&format=jpeg&auto=webp"
+    },
+    {
+        "id": 6,
+        "title": "Лабораторная работа 6",
         "description": "Диаграмма диаграмм",
         "preview": "https://i.insider.com/5df773cefd9db21a1c58b0c4?width=1100&format=jpeg&auto=webp"
     }
