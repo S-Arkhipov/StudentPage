@@ -14,7 +14,7 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Лабораторная №1"
+                    "text": "ВКР"
                 }
             ]
         },
@@ -62,12 +62,8 @@
             ]
         },
         {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Дисциплина Проектирование информационных систем"
-                }
-            ]
+            "type": "image",
+            "data": "https://github.com/S-Arkhipov/StudentPage/blob/master/%D1%82%D0%B0%D0%B1%D0%BB.JPG"
         },
         {
             "type": "text",
