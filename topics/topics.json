@@ -10,5 +10,11 @@
         "title": "UML Class",
         "description": "Диаграмма классов",
         "preview": "img/class-diagram.png"
+    },
+    {
+        "id": 3,
+        "title": "Новый раздел",
+        "description": "Диаграмма диаграмм",
+        "preview": "https://i.insider.com/5df773cefd9db21a1c58b0c4?width=1100&format=jpeg&auto=webp"
     }
 ]
